@@ -14,3 +14,5 @@
 ### License
 
 It is still under consideration. Anyone know which is suitable?
+
+I think Apache3.0 is best, thanks.
